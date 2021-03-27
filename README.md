@@ -8,3 +8,4 @@ O projeto foi desenvolvido durante o Bootcamp HTML Web Developer, da Digital Inn
  
 Neste projeto aprendi como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da aplicação.
 
+O projeto pode ser visualizado em: [https://openflix-is-a-clone.radamanto.repl.co](https://openflix-is-a-clone.radamanto.repl.co)
